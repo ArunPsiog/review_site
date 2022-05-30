@@ -1,0 +1,6 @@
+mongodb
+
+"use <db name>" to switch between db
+"show dbs" list of database attached
+
+Namimg restriction
